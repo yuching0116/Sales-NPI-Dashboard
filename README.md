@@ -1,36 +1,45 @@
-Sales & NPI Performance Overview
-Power BI Portfolio Project | 2025–2026 YTD
-Project Overview
+# Sales & NPI Performance Overview
+
+**Power BI Portfolio Project | 2025–2026 YTD**
+
+## Project Overview
+
 This dashboard demonstrates how sales performance and New Product Introduction (NPI) project data can be organized into an interactive performance overview.
 
 The project uses fictional sample data for portfolio demonstration and showcases KPI monitoring, sales trend analysis, order tracking, and NPI project status monitoring.
 
-Key Metrics
+## Key Metrics
 
-• Total Sales: Overall sales performance
-• NPI Projects:New product introduction project tracking
-• On-Time Delivery (OTD): Delivery performance monitoring
+- **Total Sales:** Overall sales performance
+- **NPI Projects:** New product introduction project tracking
+- **On-Time Delivery (OTD):** Delivery performance monitoring
 
-Dashboard Features
-• Sales Trend Analysis: Monthly and quarterly sales comparisons between 2025 and 2026 YTD
-• Sales by Customer and OEM: Analysis of sales distribution across customers and OEMs
-• Customer Distribution: Geographic overview of customers by country
-• Order Status Monitoring: Overview of order progress and status
-• NPI Project Tracking: Monitoring of NPI project status
-• Interactive Filters: Dynamic filtering by customer, OEM, year, and quarter
+## Dashboard Features
 
-Tools
-Microsoft Power BI Desktop
+- **Sales Trend Analysis:** Monthly and quarterly sales comparisons between 2025 and 2026 YTD
+- **Sales by Customer and OEM:** Analysis of sales distribution across customers and OEMs
+- **Customer Distribution:** Geographic overview of customers by country
+- **Order Status Monitoring:** Overview of order progress and status
+- **NPI Project Tracking:** Monitoring of NPI project status
+- **Interactive Filters:** Dynamic filtering by customer, OEM, year, and quarter
 
-Skills Demonstrated
-• KPI Monitoring
-• Sales Performance Analysis
-• NPI Project Tracking
-• Data Visualization
-• Interactive Dashboard Design
+## Tools
 
-Dashboard Preview
+- Microsoft Power BI Desktop
 
-Notes
-• All data is fictional and intended for portfolio demonstration only.
-• 2026 data covers Q1–Q3 and should be interpreted as year-to-date data rather than a full-year comparison.
+## Skills Demonstrated
+
+- KPI Monitoring
+- Sales Performance Analysis
+- NPI Project Tracking
+- Data Visualization
+- Interactive Dashboard Design
+
+## Dashboard Preview
+
+![Sales & NPI Performance Overview](sales-npi-dashboard.png)
+
+## Notes
+
+- All data is fictional and intended for portfolio demonstration only.
+- 2026 data covers Q1–Q3 and should be interpreted as year-to-date data rather than a full-year comparison.
