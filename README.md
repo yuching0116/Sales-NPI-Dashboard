@@ -8,6 +8,12 @@ This dashboard demonstrates how sales performance and New Product Introduction (
 
 The project uses fictional sample data for portfolio demonstration and showcases KPI monitoring, sales trend analysis, order tracking, and NPI project status monitoring.
 
+## Project Objective
+
+The objective of this project is to improve visibility into sales performance, delivery status, and NPI project progress through an interactive Power BI dashboard.
+
+By consolidating key performance indicators and project status information, this dashboard demonstrates how data visualization can support project monitoring, identify potential delivery risks, and facilitate data-driven decision-making.
+
 ## Key Metrics
 
 - **Total Sales:** Overall sales performance
